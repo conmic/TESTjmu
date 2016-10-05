@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_rest_message_fn_parameters">
+    <sys_rest_message_fn_parameters action="INSERT_OR_UPDATE">
+        <name>uuid</name>
+        <rest_message_function display_value="get">d976bd51375a2200d9c9079754990e4c</rest_message_function>
+        <sys_class_name>sys_rest_message_fn_parameters</sys_class_name>
+        <sys_created_by>mulje</sys_created_by>
+        <sys_created_on>2016-10-05 12:07:55</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>b5d67d91375a2200d9c9079754990e24</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>uuid</sys_name>
+        <sys_package display_value="CHAMP Test jmu" source="x_cham2_test_jmu">f70ed191371a2200d9c9079754990e47</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="CHAMP Test jmu">f70ed191371a2200d9c9079754990e47</sys_scope>
+        <sys_update_name>sys_rest_message_fn_parameters_b5d67d91375a2200d9c9079754990e24</sys_update_name>
+        <sys_updated_by>mulje</sys_updated_by>
+        <sys_updated_on>2016-10-05 12:07:55</sys_updated_on>
+        <type>string</type>
+        <value>c1ae2144-7f34-11e6-bf72-6b9ba3c6717d</value>
+    </sys_rest_message_fn_parameters>
+</record_update>

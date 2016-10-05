@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_rest_message_fn">
+    <sys_rest_message_fn action="INSERT_OR_UPDATE">
+        <authentication_type/>
+        <basic_auth_password/>
+        <basic_auth_profile/>
+        <basic_auth_user/>
+        <content/>
+        <function_name>post</function_name>
+        <lock>false</lock>
+        <oauth2_profile/>
+        <protocol_name/>
+        <rest_endpoint>http://cs-v-scpdev:9090/rest/configuration/customer</rest_endpoint>
+        <rest_message display_value="getCustomerDetail">a575b951375a2200d9c9079754990e92</rest_message>
+        <sys_class_name>sys_rest_message_fn</sys_class_name>
+        <sys_created_by>mulje</sys_created_by>
+        <sys_created_on>2016-10-05 12:02:46</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>9176bd51375a2200d9c9079754990e4d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>post</sys_name>
+        <sys_package display_value="CHAMP Test jmu" source="x_cham2_test_jmu">f70ed191371a2200d9c9079754990e47</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="CHAMP Test jmu">f70ed191371a2200d9c9079754990e47</sys_scope>
+        <sys_update_name>sys_rest_message_fn_9176bd51375a2200d9c9079754990e4d</sys_update_name>
+        <sys_updated_by>mulje</sys_updated_by>
+        <sys_updated_on>2016-10-05 12:02:46</sys_updated_on>
+        <use_basic_auth>false</use_basic_auth>
+        <use_mid_server/>
+        <use_mutual_auth>false</use_mutual_auth>
+    </sys_rest_message_fn>
+</record_update>

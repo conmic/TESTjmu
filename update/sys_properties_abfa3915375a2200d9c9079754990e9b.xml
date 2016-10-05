@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_properties">
+    <sys_properties action="INSERT_OR_UPDATE">
+        <choices/>
+        <description/>
+        <ignore_cache>false</ignore_cache>
+        <is_private>false</is_private>
+        <name>x_cham2_test_jmu.base_url</name>
+        <read_roles/>
+        <suffix>base_url</suffix>
+        <sys_class_name>sys_properties</sys_class_name>
+        <sys_created_by>conmic</sys_created_by>
+        <sys_created_on>2016-10-05 12:23:44</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>abfa3915375a2200d9c9079754990e9b</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>x_cham2_test_jmu.base_url</sys_name>
+        <sys_package display_value="CHAMP Test jmu" source="x_cham2_test_jmu">f70ed191371a2200d9c9079754990e47</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="CHAMP Test jmu">f70ed191371a2200d9c9079754990e47</sys_scope>
+        <sys_update_name>sys_properties_abfa3915375a2200d9c9079754990e9b</sys_update_name>
+        <sys_updated_by>conmic</sys_updated_by>
+        <sys_updated_on>2016-10-05 12:54:52</sys_updated_on>
+        <type>string</type>
+        <value>http://cs-v-scpdev:9090</value>
+        <write_roles/>
+    </sys_properties>
+    <sys_translated_text action="delete_multiple" query="documentkey=abfa3915375a2200d9c9079754990e9b"/>
+</record_update>
